@@ -71,6 +71,8 @@
 				8236FE1B1D6B696500C04A2D /* LaunchScreen.storyboard */,
 				8236FE261D6B7B2A00C04A2D /* APIClient.swift */,
 				8236FE281D6B8A1D00C04A2D /* ForecastClient.swift */,
+				8236FE221D6B698D00C04A2D /* CurrentWeather.swift */,
+				8236FE231D6B698D00C04A2D /* WeatherIcon.swift */,
 			);
 			path = Stormy;
 			sourceTree = "<group>";
@@ -78,8 +80,6 @@
 		8236FE211D6B697B00C04A2D /* Weather Model */ = {
 			isa = PBXGroup;
 			children = (
-				8236FE221D6B698D00C04A2D /* CurrentWeather.swift */,
-				8236FE231D6B698D00C04A2D /* WeatherIcon.swift */,
 			);
 			name = "Weather Model";
 			sourceTree = "<group>";
@@ -309,6 +309,7 @@
 				8236FE161D6B692500C04A2D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
